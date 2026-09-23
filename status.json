@@ -1,0 +1,452 @@
+{
+  "generatedAt": "2026-09-22T23:26:49+02:00",
+  "sourceRange": "21.09 al 27.09.2026",
+  "items": [
+    {
+      "id": "camaldoli",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Camaldoli/Arenella-Zona Ospedaliera\" — uscita obbligatoria Camaldoli",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "camaldoli",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Camaldoli — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arco Felice — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "via-campana",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Via Campana — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "doganella",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Doganella/Capodichino/Aeroporto\" — uscita obbligatoria Doganella",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto/Capodimonte\" — uscita obbligatoria Capodichino / Aeroporto",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "doganella",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Doganella — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "corso-malta",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Corso Malta — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Zona Ospedaliera/Camaldoli\" — uscita obbligatoria Zona Ospedaliera",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Arenella — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arenella — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto/Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-22T23:00:00+02:00",
+          "to": "2026-09-23T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-26T00:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "doganella",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Doganella — uscita chiusa",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-25T23:00:00+02:00",
+          "to": "2026-09-26T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "viale-maddalena",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Viale Umberto Maddalena — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "corso-malta",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Corso Malta — uscita chiusa",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Viale Colli Aminei\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Viale Colli Aminei\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — uscita chiusa",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — uscita chiusa",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-23T23:00:00+02:00",
+          "to": "2026-09-24T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Museo Nazionale\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Museo Nazionale\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Arenella — uscita chiusa",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-09-21T23:00:00+02:00",
+          "to": "2026-09-22T06:00:00+02:00"
+        }
+      ]
+    }
+  ],
+  "unparsed": [],
+  "urgentNotice": null
+}
