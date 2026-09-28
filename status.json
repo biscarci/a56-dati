@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T02:35:30+02:00",
-  "sourceRange": "21.09 al 27.09.2026",
+  "generatedAt": "2026-09-25T16:58:31+02:00",
+  "sourceRange": "28.09 al 03.10.2026",
   "items": [
     {
       "id": "camaldoli",
@@ -475,6 +475,307 @@
       ]
     }
   ],
-  "unparsed": [],
+  "unparsed": [
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Camaldoli/Arenella-Zona Ospedaliera\" in direzione est/autostrade con conseguente:",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'ingresso \"Camaldoli\" in direzione est/autostrade (per i veicoli provenienti dalla viabilità ordinaria, ingresso alternativo consigliato \"Capodimonte\").",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Arco Felice/Agnano\" in direzione est/autostrade con conseguente:",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico degli svincoli d'ingresso \"Arco Felice\" e \"Via Campana\" in direzione est/autostrade (per i veicoli provenienti dalla viabilità ordinaria, ingresso alternativo consigliato \"Agnano\");",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Capodichino Aeroporto /Secondigliano\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Agnano/Cuma\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'ingresso \"Agnano\" in direzione ovest/Pozzuoli (per i veicoli provenienti dalla viabilità ordinaria, ingresso consigliato \"Cuma\").",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo \"Italia 90\" in entrambe le direzioni (per i veicoli provenienti dalla viabilità ordinaria, ingresso consigliato in direzione ovest/Pozzuoli \"Cuma\" e in direzione est/autostrade Agnano).",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'uscita \"Doganella\" in direzione est/Autostrade (per i veicoli provenienti dall'autostrada uscita alternativa consigliata \"Capodichino/aeroporto\").",
+      "windows": [
+        {
+          "from": "2026-09-28T23:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-29T23:00:00+02:00",
+          "to": "2026-09-30T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'entrata \"Arenella\" in entrambe le direzioni (per i veicoli provenienti dalla viabilità ordinaria ingresso alternativo consigliato \"Camaldoli\").",
+      "windows": [
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'uscita \"Arenella\" in entrambe le direzioni (per i veicoli provenienti dall'autostrada uscita alternativa consigliata \"Camaldoli\").",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-01T23:00:00+02:00",
+          "to": "2026-10-02T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'entrata \"Capodimonte\" provenienza da \"Viale Colli Aminei\" (ingresso alternativo consigliato \"Capodimonte\" provenienza da \"Museo Nazionale\").",
+      "windows": [
+        {
+          "from": "2026-10-02T23:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'entrata \"Camaldoli\" provenienza dal \"Rione Alto\" (per i veicoli provenienti dalla viabilità ordinaria entrata alternativa consigliata \"Camaldoli\" provenienza da Via Pigna).",
+      "windows": [
+        {
+          "from": "2026-09-28T22:00:00+02:00",
+          "to": "2026-09-29T01:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'entrata \"Camaldoli\" provenienza da \"Via Pigna\" (per i veicoli provenienti dalla viabilità ordinaria entrata alternativa consigliata \"Camaldoli\" provenienza dal Rione Alto).",
+      "windows": [
+        {
+          "from": "2026-09-29T01:00:00+02:00",
+          "to": "2026-09-29T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'entrata \"Fuorigrotta\" provenienza da \"Monte Sant'Angelo\" (per i veicoli provenienti dalla viabilità ordinaria entrata alternativa consigliata \"Fuorigrotta\" provenienza dallo stadio \"Maradona\").",
+      "windows": [
+        {
+          "from": "2026-09-30T22:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'uscita \"Vomero - Via Cilea\" (per i veicoli provenienti dall'autostrada uscita alternativa consigliata \"Vomero\" - Via Pigna e Via Caldieri).",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-25T00:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura del tratto autostradale \"Capodichino Aeroporto (competenza ASPI - DT6 Cassino\" in direzione Pozzuoli\" (per i veicoli provenienti dalle autostrade possibile rientro consigliato allo svincolo d'ingresso \"Viale Umberto Maddalena\").",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-25T00:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico dello svincolo d'ingresso Capodichino in direzione Pozzuoli (per i veicoli provenienti dalla viabilità ordinaria ingresso consigliato allo svincolo d'ingresso \"Viale Umberto Maddalena\")",
+      "windows": [
+        {
+          "from": "2026-09-30T23:00:00+02:00",
+          "to": "2026-10-01T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-24T23:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        },
+        {
+          "from": "2026-09-25T00:00:00+02:00",
+          "to": "2026-09-25T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    }
+  ],
   "urgentNotice": null
 }
