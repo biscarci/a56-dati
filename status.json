@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:54:05+02:00",
+  "generatedAt": "2026-09-29T12:23:03+02:00",
   "sourceRange": "28.09 al 03.10.2026",
   "items": [
     {
@@ -454,5 +454,5 @@
       "reason": "pattern non riconosciuto"
     }
   ],
-  "urgentNotice": "La prevista chiusura del tratto autostradale \"Capodichino Aeroporto/Secondigliano\" in direzione Pozzuoli\" NON SARA' EFFETTUATA"
+  "urgentNotice": null
 }
