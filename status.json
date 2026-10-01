@@ -1,7 +1,76 @@
 {
-  "generatedAt": "2026-09-29T12:23:03+02:00",
-  "sourceRange": "28.09 al 03.10.2026",
+  "generatedAt": "2026-10-01T22:46:27+02:00",
+  "sourceRange": "05.10 al 11.10.2026",
   "items": [
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Zona Ospedaliera/Camaldoli\" — uscita obbligatoria Zona Ospedaliera",
+      "tratto": {
+        "da": "zona-ospedaliera",
+        "a": "camaldoli"
+      },
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Arenella — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arenella — ingresso chiuso",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Viale Colli Aminei\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-10-02T23:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Viale Colli Aminei\"",
+      "source": "rules",
+      "windows": [
+        {
+          "from": "2026-10-02T23:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ]
+    },
     {
       "id": "camaldoli",
       "direzione": "capodichino",
@@ -443,6 +512,34 @@
     }
   ],
   "unparsed": [
+    {
+      "text": "dalle ore 24,00 del 09/10/2026 alle ore 6,00 del 10/10/2",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Agnano/Cuma\" in direzione ovest/Pozzuoli con conseguente, non sarà effettuata.",
+      "windows": [
+        {
+          "from": "2026-10-03T00:00:00+02:00",
+          "to": "2026-10-03T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
     {
       "text": "chiusura al traffico dello svincolo d'uscita \"Vomero - Via Cilea\" (per i veicoli provenienti dall'autostrada uscita alternativa consigliata \"Vomero\" - Via Pigna e Via Caldieri).",
       "windows": [
