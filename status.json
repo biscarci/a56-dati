@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T22:46:27+02:00",
+  "generatedAt": "2026-10-02T22:18:56+02:00",
   "sourceRange": "05.10 al 11.10.2026",
   "items": [
     {
@@ -513,6 +513,16 @@
   ],
   "unparsed": [
     {
+      "text": "chiusura del tratto autostradale \"Arenella/Corso Malta\" in direzione est/autostrade con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-05T23:00:00+02:00",
+          "to": "2026-10-06T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
       "text": "dalle ore 24,00 del 09/10/2026 alle ore 6,00 del 10/10/2",
       "windows": [
         {
@@ -526,6 +536,88 @@
         {
           "from": "2026-10-08T23:00:00+02:00",
           "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Capodimonte/Corso Malta\" in direzione est/autostrade con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Capodichino Aeroporto /Doganella\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-06T00:00:00+02:00",
+          "to": "2026-10-06T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-07T00:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-08T00:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-09T00:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Capodichino Aeroporto /Secondigliano\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Fuorigrotta/Cuma\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-05T23:00:00+02:00",
+          "to": "2026-10-06T06:00:00+02:00"
+        }
+      ],
+      "reason": "pattern non riconosciuto"
+    },
+    {
+      "text": "chiusura al traffico del tratto autostradale \"Agnano/Cuma\" in direzione ovest/Pozzuoli con conseguente:",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        },
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
         }
       ],
       "reason": "pattern non riconosciuto"
