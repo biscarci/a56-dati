@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T15:39:53+02:00",
+  "generatedAt": "2026-10-04T18:49:25+02:00",
   "sourceRange": "05.10 al 11.10.2026",
   "items": [
     {
@@ -514,5 +514,6 @@
       "reason": "pattern non riconosciuto"
     }
   ],
-  "urgentNotice": "chiusura al traffico del tratto autostradale \"Agnano/Cuma\" in direzione ovest/Pozzuoli con conseguente, non sarà effettuata. chiusura al traffico dello svincolo d'entrata \"Capodimonte\" provenienza da \"Viale Colli Aminei\", non sarà effettuata"
+  "urgentNotice": "chiusura al traffico del tratto autostradale \"Agnano/Cuma\" in direzione ovest/Pozzuoli con conseguente, non sarà effettuata. chiusura al traffico dello svincolo d'entrata \"Capodimonte\" provenienza da \"Viale Colli Aminei\", non sarà effettuata",
+  "sourceHash": "cd00f42302166a4cdece128a0d4720313026635e9e472ac7f61fb139a7cfb944"
 }
