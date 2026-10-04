@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:38:35+02:00",
+  "generatedAt": "2026-10-04T21:54:28+02:00",
   "sourceRange": "05.10 al 11.10.2026",
   "items": [
     {
@@ -16,6 +16,286 @@
         {
           "from": "2026-10-05T23:00:00+02:00",
           "to": "2026-10-06T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
+      "tratto": {
+        "da": "capodimonte",
+        "a": "corso-malta"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
+      "tratto": {
+        "da": "capodimonte",
+        "a": "corso-malta"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
+      "tratto": {
+        "da": "capodimonte",
+        "a": "corso-malta"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
+      "tratto": {
+        "da": "capodimonte",
+        "a": "corso-malta"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-06T00:00:00+02:00",
+          "to": "2026-10-06T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-07T00:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-08T00:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-09T00:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "secondigliano"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "fuorigrotta",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Fuorigrotta/Cuma\" — uscita obbligatoria Fuorigrotta",
+      "tratto": {
+        "da": "fuorigrotta",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-05T23:00:00+02:00",
+          "to": "2026-10-06T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
         }
       ],
       "visto": [
@@ -279,166 +559,6 @@
       ]
     },
     {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-06T23:00:00+02:00",
-          "to": "2026-10-07T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-07T23:00:00+02:00",
-          "to": "2026-10-08T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-08T23:00:00+02:00",
-          "to": "2026-10-09T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-10T00:00:00+02:00",
-          "to": "2026-10-10T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-06T00:00:00+02:00",
-          "to": "2026-10-06T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-07T00:00:00+02:00",
-          "to": "2026-10-07T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-08T00:00:00+02:00",
-          "to": "2026-10-08T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-09T00:00:00+02:00",
-          "to": "2026-10-09T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
       "id": "secondigliano",
       "direzione": "pozzuoli",
       "status": "giallo",
@@ -560,46 +680,6 @@
         {
           "from": "2026-10-09T00:00:00+02:00",
           "to": "2026-10-09T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "secondigliano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-10T00:00:00+02:00",
-          "to": "2026-10-10T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "fuorigrotta",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Fuorigrotta/Cuma\" — uscita obbligatoria Fuorigrotta",
-      "tratto": {
-        "da": "fuorigrotta",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-05T23:00:00+02:00",
-          "to": "2026-10-06T06:00:00+02:00"
         }
       ],
       "visto": [
@@ -864,86 +944,6 @@
     },
     {
       "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-06T23:00:00+02:00",
-          "to": "2026-10-07T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-07T23:00:00+02:00",
-          "to": "2026-10-08T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-08T23:00:00+02:00",
-          "to": "2026-10-09T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-10T00:00:00+02:00",
-          "to": "2026-10-10T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai"
-      ]
-    },
-    {
-      "id": "agnano",
       "direzione": "capodichino",
       "status": "giallo",
       "label": "Agnano — uscita chiusa",
@@ -1048,9 +1048,9 @@
           "to": "2026-10-07T06:00:00+02:00"
         }
       ],
-      "reason": "pattern non riconosciuto"
+      "reason": "svincolo non in tabella"
     }
   ],
-  "urgentNotice": "chiusura al traffico del tratto autostradale “Agnano/Cuma” in direzione ovest/Pozzuoli con conseguente, non sarà effettuata.\nchiusura al traffico dello svincolo d’entrata “Capodimonte” provenienza da “Viale Colli Aminei”, non sarà effettuata",
+  "urgentNotice": null,
   "sourceHash": "0a82b5a0d5c83becdae751ff9adb5c20c22785feea96f28e8e90d203c1d31c2d"
 }
