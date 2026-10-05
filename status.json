@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T22:00:07+02:00",
+  "generatedAt": "2026-10-05T13:12:13+02:00",
   "sourceRange": "05.10 al 11.10.2026",
   "items": [
     {
@@ -846,74 +846,6 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-06T23:00:00+02:00",
-          "to": "2026-10-07T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-07T23:00:00+02:00",
-          "to": "2026-10-08T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-08T23:00:00+02:00",
-          "to": "2026-10-09T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-10T00:00:00+02:00",
-          "to": "2026-10-10T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
       "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — ingresso chiuso",
@@ -931,9 +863,77 @@
     },
     {
       "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-06T23:00:00+02:00",
+          "to": "2026-10-07T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-07T23:00:00+02:00",
+          "to": "2026-10-08T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-08T23:00:00+02:00",
+          "to": "2026-10-09T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-10T00:00:00+02:00",
+          "to": "2026-10-10T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
+      "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
       "windows": [
         {
@@ -950,7 +950,7 @@
       "id": "italia-90",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
+      "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
       "windows": [
         {
@@ -967,7 +967,7 @@
       "id": "italia-90",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
+      "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
       "windows": [
         {
@@ -984,7 +984,7 @@
       "id": "italia-90",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Italia 90 — ingresso chiuso",
+      "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
       "windows": [
         {
@@ -1141,9 +1141,9 @@
           "to": "2026-10-07T06:00:00+02:00"
         }
       ],
-      "reason": "svincolo non presente in tabella"
+      "reason": "svincolo non in tabella"
     }
   ],
   "urgentNotice": null,
-  "sourceHash": "0a82b5a0d5c83becdae751ff9adb5c20c22785feea96f28e8e90d203c1d31c2d"
+  "sourceHash": "a6e1931a87185a3cbc55fcaf5efadeac26500223848093a7d96e228ad246dec7"
 }
