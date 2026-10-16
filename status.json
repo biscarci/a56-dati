@@ -1,89 +1,25 @@
 {
-  "generatedAt": "2026-10-12T13:40:43+02:00",
-  "sourceRange": "12.10 al 18.10.2026",
+  "generatedAt": "2026-10-16T16:33:46+02:00",
+  "sourceRange": "19.10 al 25.10.2026",
   "items": [
     {
-      "id": "capodimonte",
+      "id": "arenella",
       "direzione": "capodichino",
       "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
+      "label": "Chiusura tratto \"Arenella/Corso Malta\" — uscita obbligatoria Arenella",
       "tratto": {
-        "da": "capodimonte",
+        "da": "arenella",
         "a": "corso-malta"
       },
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodimonte/Corso Malta\" — uscita obbligatoria Capodimonte",
-      "tratto": {
-        "da": "capodimonte",
-        "a": "corso-malta"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
@@ -94,200 +30,108 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "arenella",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arenella — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "camaldoli",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Camaldoli — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "doganella",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Doganella — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "corso-malta",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Corso Malta — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     },
     {
       "id": "capodimonte",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Capodimonte — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodimonte",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Capodimonte — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
@@ -302,13 +146,72 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
+      "tratto": {
+        "da": "arco-felice",
+        "a": "agnano"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-20T23:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
+      "tratto": {
+        "da": "arco-felice",
+        "a": "agnano"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
+      "tratto": {
+        "da": "arco-felice",
+        "a": "agnano"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     },
     {
@@ -319,13 +222,60 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arco Felice — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-20T23:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arco Felice — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "arco-felice",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Arco Felice — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     },
     {
@@ -336,20 +286,443 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "via-campana",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Via Campana — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-20T23:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "via-campana",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Via Campana — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "via-campana",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Via Campana — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "tratto": {
+        "da": "agnano",
+        "a": "cuma"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-19T23:00:00+02:00",
+          "to": "2026-10-20T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     },
     {
       "id": "capodichino",
       "direzione": "pozzuoli",
       "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto/Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T00:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "secondigliano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Secondigliano — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "secondigliano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Secondigliano — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T00:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T00:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T00:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto /Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
       "tratto": {
         "da": "capodichino",
         "a": "secondigliano"
@@ -357,441 +730,124 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
+          "from": "2026-10-24T00:00:00+02:00",
+          "to": "2026-10-24T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
-      "id": "capodichino",
+      "id": "arenella",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "label": "Arenella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T00:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-16T00:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "doganella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Doganella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "doganella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Doganella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "corso-malta",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Corso Malta — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "corso-malta",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Corso Malta — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T00:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto /Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-16T00:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "secondigliano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Secondigliano — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T00:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "secondigliano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Secondigliano — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-16T00:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Agnano — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Agnano — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Agnano — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
-        }
-      ],
-      "visto": [
-        "openai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
+      "id": "arenella",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
+      "label": "Arenella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-14T23:00:00+02:00",
-          "to": "2026-10-15T06:00:00+02:00"
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
-      "id": "italia-90",
-      "direzione": "capodichino",
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
+      "label": "Capodimonte — ingresso da \"Museo Nazionale\"",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
+          "from": "2026-10-22T01:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
       ]
     },
     {
-      "id": "italia-90",
+      "id": "capodimonte",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
+      "label": "Capodimonte — ingresso da \"Museo Nazionale\"",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-17T00:00:00+02:00",
-          "to": "2026-10-17T06:00:00+02:00"
+          "from": "2026-10-22T01:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Colli Aminei\"",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T01:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso da \"Colli Aminei\"",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T01:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "agnano",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Agnano — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     },
     {
@@ -802,46 +858,91 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-10-15T23:00:00+02:00",
-          "to": "2026-10-16T06:00:00+02:00"
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
         }
       ],
       "visto": [
-        "openai",
-        "anthropic"
+        "openai"
+      ]
+    },
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Zona Ospedaliera — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-20T23:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Zona Ospedaliera — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Zona Ospedaliera — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-20T23:00:00+02:00",
+          "to": "2026-10-21T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
+      ]
+    },
+    {
+      "id": "zona-ospedaliera",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Zona Ospedaliera — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-10-21T23:00:00+02:00",
+          "to": "2026-10-22T06:00:00+02:00"
+        }
+      ],
+      "visto": [
+        "openai"
       ]
     }
   ],
   "unparsed": [
     {
-      "text": "chiusura al traffico del tratto autostradale “Capodichino Aeroporto/Capodimonte” in direzione ovest/Pozzuoli con conseguente:",
+      "text": "chiusura al traffico del tratto autostradale “Capodichino aeroporto/Arenella” in direzione ovest/Pozzuoli con conseguente: uscita obbligatoria “Capodichino Aeroporto /Secondigliano” in direzione ovest/Pozzuoli (per i veicoli provenienti dalle autostrade possibile rientro consigliato allo svincolo d’ingresso “Arenella” con percorso alternativo: via Oreste Salomone, via Tangenziale est-ovest, via Del Riposo, viale Umberto Maddalena, via Nuova del Campo, via Don Giovanni Bosco, piazza Carlo III, via Foria, – P.za Cavour – Via Enrico Pessina - Via Salvator Rosa – Via M.R. Imbriani – Via S. D’Acquisto – Via G. Gigante – Via M. e Cotronei);",
       "windows": [
         {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        },
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
+          "from": "2026-10-22T23:00:00+02:00",
+          "to": "2026-10-23T06:00:00+02:00"
         }
       ],
-      "reason": "uscita obbligatoria non riconosciuta"
-    },
-    {
-      "text": "chiusura al traffico del tratto autostradale \"Capodichino Aeroporto/Capodimonte\" in direzione ovest/Pozzuoli con conseguente: uscita obbligatoria \"Capodichino Aeroporto/Secondigliano\" in direzione ovest/Pozzuoli per i veicoli provenienti dalle autostrade (possibile rientro consigliato allo svincolo d'ingresso \"Capodimonte\" con percorso alternativo: via Oreste Salomone, via Tangenziale est-ovest, via Del Riposo, viale Umberto Maddalena, via Nuova del Campo, via Don Giovanni Bosco, piazza Carlo III, via Foria, via S. Teresa degli Scalzi, Corso Amedeo di Savoia, via Capodimonte);",
-      "windows": [
-        {
-          "from": "2026-10-12T23:00:00+02:00",
-          "to": "2026-10-13T06:00:00+02:00"
-        },
-        {
-          "from": "2026-10-13T23:00:00+02:00",
-          "to": "2026-10-14T06:00:00+02:00"
-        }
-      ],
-      "reason": "uscita obbligatoria ambigua: \"Capodichino Aeroporto/Secondigliano\" non si risolve a un singolo svincolo"
+      "reason": "uscita obbligatoria ambigua"
     }
   ],
-  "urgentNotice": null,
-  "sourceHash": "13c084d52aa9d80fec42b7ddce32bf048cccdef9a00eddcd9b577a2a83e8b425"
+  "urgentNotice": "Galleria “Capodimonte ovest” (adeguamento e miglioramento) – Cavalcavia “Ruffo e Maddalena” (manutenzione cavalcavia): La chiusura al traffico del tratto autostradale “Capodichino aeroporto/Capodimonte” in direzione Pozzuoli, inizialmente prevista dalle ore 23,00 del 13/10/2026 alle ore 6,00 del 14/10/2026, NON SARÀ EFFETTUATA",
+  "sourceHash": "cf2dda9f2401228ec6b90fadc3fca05e7e29ed21e3c83571a629049547381f78"
 }
