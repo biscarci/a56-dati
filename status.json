@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:33:46+02:00",
+  "generatedAt": "2026-10-20T16:42:07+02:00",
   "sourceRange": "19.10 al 25.10.2026",
   "items": [
     {
@@ -940,9 +940,9 @@
           "to": "2026-10-23T06:00:00+02:00"
         }
       ],
-      "reason": "uscita obbligatoria ambigua"
+      "reason": "uscita obbligatoria non univoca"
     }
   ],
-  "urgentNotice": "Galleria “Capodimonte ovest” (adeguamento e miglioramento) – Cavalcavia “Ruffo e Maddalena” (manutenzione cavalcavia): La chiusura al traffico del tratto autostradale “Capodichino aeroporto/Capodimonte” in direzione Pozzuoli, inizialmente prevista dalle ore 23,00 del 13/10/2026 alle ore 6,00 del 14/10/2026, NON SARÀ EFFETTUATA",
-  "sourceHash": "cf2dda9f2401228ec6b90fadc3fca05e7e29ed21e3c83571a629049547381f78"
+  "urgentNotice": null,
+  "sourceHash": "41be074648fb870ab5adfc49603b974f28d10197f3689de91f25e9dff2cb4d9f"
 }
