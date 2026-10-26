@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:45:15+02:00",
+  "generatedAt": "2026-10-26T17:26:59+01:00",
   "sourceRange": "26.10 al 1.11.2026",
   "items": [
     {
@@ -325,69 +325,9 @@
           "to": "2026-10-30T06:00:00+01:00"
         }
       ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Agnano — uscita chiusa",
-      "source": "rules",
-      "windows": [
-        {
-          "from": "2026-10-22T23:00:00+02:00",
-          "to": "2026-10-23T06:00:00+02:00"
-        }
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Agnano — uscita chiusa",
-      "source": "rules",
-      "windows": [
-        {
-          "from": "2026-10-22T23:00:00+02:00",
-          "to": "2026-10-23T06:00:00+02:00"
-        }
-      ]
-    },
-    {
-      "id": "zona-ospedaliera",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Zona Ospedaliera — uscita chiusa",
-      "source": "rules",
-      "windows": [
-        {
-          "from": "2026-10-20T23:00:00+02:00",
-          "to": "2026-10-21T06:00:00+02:00"
-        },
-        {
-          "from": "2026-10-21T23:00:00+02:00",
-          "to": "2026-10-22T06:00:00+02:00"
-        }
-      ]
-    },
-    {
-      "id": "zona-ospedaliera",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Zona Ospedaliera — uscita chiusa",
-      "source": "rules",
-      "windows": [
-        {
-          "from": "2026-10-20T23:00:00+02:00",
-          "to": "2026-10-21T06:00:00+02:00"
-        },
-        {
-          "from": "2026-10-21T23:00:00+02:00",
-          "to": "2026-10-22T06:00:00+02:00"
-        }
-      ]
     }
   ],
   "unparsed": [],
   "urgentNotice": null,
-  "sourceHash": "548e08ca53f8f6d0a51e5c2970045266e206ef359ce56900e442851f9a8d3f87"
+  "sourceHash": "a528ccbd284eb03739f5dba22f491e5afbfc5e4fca6a08c14e8a151c0e581ecc"
 }
