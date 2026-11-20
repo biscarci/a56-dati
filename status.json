@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T22:47:01+01:00",
-  "sourceRange": "2.11 al 8.11.2026",
+  "generatedAt": "2026-11-20T13:30:39+01:00",
+  "sourceRange": "23.11 al 29.11.2026",
   "items": [
     {
       "id": "arco-felice",
@@ -14,8 +14,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -34,8 +34,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -54,8 +54,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -74,8 +74,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -94,8 +94,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -110,8 +110,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -126,8 +126,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -142,8 +142,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -158,8 +158,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -174,8 +174,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -190,8 +190,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -206,8 +206,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -222,8 +222,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -238,8 +238,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -254,8 +254,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -274,8 +274,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -294,8 +294,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -314,8 +314,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -334,8 +334,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -354,8 +354,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -370,8 +370,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -386,8 +386,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -402,8 +402,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -418,8 +418,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -434,8 +434,88 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "italia-90",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Italia 90 — svincolo chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -450,8 +530,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -466,8 +546,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -482,8 +562,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -498,8 +578,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -514,140 +594,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "italia-90",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Italia 90 — svincolo chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "zona-ospedaliera",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Zona Ospedaliera/Camaldoli\" — uscita obbligatoria Zona Ospedaliera",
-      "tratto": {
-        "da": "zona-ospedaliera",
-        "a": "camaldoli"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T02:00:00+01:00",
-          "to": "2026-11-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T02:00:00+01:00",
-          "to": "2026-11-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T02:00:00+01:00",
-          "to": "2026-11-02T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -666,8 +614,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T00:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -686,8 +634,48 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-06T00:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto/Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto/Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "doganella"
+      },
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -702,8 +690,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T00:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -718,8 +706,40 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-06T00:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodichino / Aeroporto — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -738,8 +758,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-28T00:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -747,15 +767,15 @@
       ]
     },
     {
-      "id": "capodichino",
+      "id": "doganella",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Capodichino / Aeroporto — uscita chiusa",
+      "label": "Doganella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -763,15 +783,15 @@
       ]
     },
     {
-      "id": "capodichino",
+      "id": "doganella",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Capodichino / Aeroporto — uscita chiusa",
+      "label": "Doganella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-06T23:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -779,79 +799,15 @@
       ]
     },
     {
-      "id": "secondigliano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Secondigliano — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "secondigliano",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Secondigliano — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-02T23:00:00+01:00",
-          "to": "2026-11-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Capodichino / Aeroporto — ingresso chiuso",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
+      "id": "doganella",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
+      "label": "Doganella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -859,15 +815,15 @@
       ]
     },
     {
-      "id": "arenella",
+      "id": "doganella",
       "direzione": "capodichino",
       "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
+      "label": "Doganella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -875,15 +831,15 @@
       ]
     },
     {
-      "id": "arenella",
-      "direzione": "pozzuoli",
+      "id": "doganella",
+      "direzione": "capodichino",
       "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
+      "label": "Doganella — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-03T23:00:00+01:00",
-          "to": "2026-11-04T06:00:00+01:00"
+          "from": "2026-11-27T23:00:00+01:00",
+          "to": "2026-11-28T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -891,15 +847,63 @@
       ]
     },
     {
-      "id": "arenella",
+      "id": "capodimonte",
       "direzione": "pozzuoli",
       "status": "giallo",
-      "label": "Arenella — ingresso chiuso",
+      "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-04T23:00:00+01:00",
-          "to": "2026-11-05T06:00:00+01:00"
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "pozzuoli",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "capodimonte",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Capodimonte — ingresso chiuso",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -914,56 +918,8 @@
       "source": "llm",
       "windows": [
         {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Arenella — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-05T23:00:00+01:00",
-          "to": "2026-11-06T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arenella",
-      "direzione": "pozzuoli",
-      "status": "giallo",
-      "label": "Arenella — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-11-07T00:00:00+01:00",
-          "to": "2026-11-07T06:00:00+01:00"
+          "from": "2026-11-23T23:00:00+01:00",
+          "to": "2026-11-24T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -973,5 +929,5 @@
   ],
   "unparsed": [],
   "urgentNotice": null,
-  "sourceHash": "5becb7477c23035e06782e41ba25726a78a454484b4c376a85d3672b8699e986"
+  "sourceHash": "c2aa73616a28a53990dd2f6eeaf3f840213117b9b71eee0d3ed4969d856c5474"
 }
