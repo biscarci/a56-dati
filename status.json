@@ -1,8 +1,56 @@
 {
-  "generatedAt": "2026-11-20T13:30:39+01:00",
+  "generatedAt": "2026-11-20T23:31:10+01:00",
   "sourceRange": "23.11 al 29.11.2026",
   "items": [
     {
+      "id": "corso-malta",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Corso Malta — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-24T23:00:00+01:00",
+          "to": "2026-11-25T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "corso-malta",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Corso Malta — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-25T23:00:00+01:00",
+          "to": "2026-11-26T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "corso-malta",
+      "direzione": "capodichino",
+      "status": "giallo",
+      "label": "Corso Malta — uscita chiusa",
+      "source": "llm",
+      "windows": [
+        {
+          "from": "2026-11-26T23:00:00+01:00",
+          "to": "2026-11-27T06:00:00+01:00"
+        }
+      ],
+      "visto": [
+        "anthropic"
+      ]
+    },
+    {
       "id": "arco-felice",
       "direzione": "capodichino",
       "status": "rosso",
@@ -444,7 +492,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -460,7 +508,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -476,7 +524,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -492,7 +540,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -508,7 +556,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -524,7 +572,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -540,7 +588,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -556,7 +604,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -572,7 +620,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -588,7 +636,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -848,7 +896,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -864,7 +912,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -880,7 +928,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -896,7 +944,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -927,7 +975,13 @@
       ]
     }
   ],
-  "unparsed": [],
+  "unparsed": [
+    {
+      "text": "Manifestazione Sportiva \"Corri contro la violenza sulle donne - gara podistica\" dalle ore 7:45 alle ore 8:45 di domenica 29 novembre verrà chiusa la rampa d'uscita \"Corso Malta\" in direzione Centro Direzionale (uscita alternativa consigliata Corso Malta SS162 direzione Comuni Vesuviani).",
+      "windows": [],
+      "reason": "formato data non standard (H:MM, non H,MM) e non introdotto da 'chiusura', non riconducibile con certezza al pattern previsto"
+    }
+  ],
   "urgentNotice": null,
-  "sourceHash": "c2aa73616a28a53990dd2f6eeaf3f840213117b9b71eee0d3ed4969d856c5474"
+  "sourceHash": "164f5b314379d3aa54f40dcb7652653f57aff497ead15121a15ccc2b887d16a0"
 }
