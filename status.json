@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:01:40+01:00",
+  "generatedAt": "2026-11-26T00:59:50+01:00",
   "sourceRange": "23.11 al 29.11.2026",
   "items": [
     {
@@ -492,7 +492,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -508,7 +508,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -524,7 +524,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -540,7 +540,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -556,7 +556,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -572,7 +572,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -588,7 +588,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -604,7 +604,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -620,7 +620,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -636,7 +636,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -896,7 +896,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -912,7 +912,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -928,7 +928,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -944,7 +944,7 @@
     },
     {
       "id": "capodimonte",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodimonte — ingresso chiuso",
       "source": "llm",
@@ -977,5 +977,5 @@
   ],
   "unparsed": [],
   "urgentNotice": null,
-  "sourceHash": "4a6293e013b9d8771ce33beb1b3ec20602913caaeb31da3e92bd70bb04891d91"
+  "sourceHash": "db17f4233e82bc383fba6d476f5c7a0072d0112232ee9d2195c302d49d775927"
 }
