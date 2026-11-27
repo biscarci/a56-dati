@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-27T14:29:21+01:00",
+  "generatedAt": "2026-11-28T00:57:16+01:00",
   "sourceRange": "30.11 al 6.12.2026",
   "items": [
     {
       "id": "arco-felice",
       "direzione": "capodichino",
       "status": "rosso",
-      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
+      "label": "Chiusura tratto \"Arco Felice - Agnano\" — uscita obbligatoria Arco Felice",
       "tratto": {
         "da": "arco-felice",
         "a": "agnano"
@@ -16,86 +16,6 @@
         {
           "from": "2026-11-30T23:00:00+01:00",
           "to": "2026-12-01T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arco-felice",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
-      "tratto": {
-        "da": "arco-felice",
-        "a": "agnano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-01T23:00:00+01:00",
-          "to": "2026-12-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arco-felice",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
-      "tratto": {
-        "da": "arco-felice",
-        "a": "agnano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-02T23:00:00+01:00",
-          "to": "2026-12-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arco-felice",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
-      "tratto": {
-        "da": "arco-felice",
-        "a": "agnano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-03T23:00:00+01:00",
-          "to": "2026-12-04T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "arco-felice",
-      "direzione": "capodichino",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Arco Felice/Agnano\" — uscita obbligatoria Arco Felice",
-      "tratto": {
-        "da": "arco-felice",
-        "a": "agnano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-05T00:00:00+01:00",
-          "to": "2026-12-05T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -266,7 +186,7 @@
       "id": "agnano",
       "direzione": "pozzuoli",
       "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
+      "label": "Chiusura tratto \"Agnano - Cuma\" — uscita obbligatoria Agnano",
       "tratto": {
         "da": "agnano",
         "a": "cuma"
@@ -276,86 +196,6 @@
         {
           "from": "2026-11-30T23:00:00+01:00",
           "to": "2026-12-01T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-01T23:00:00+01:00",
-          "to": "2026-12-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-02T23:00:00+01:00",
-          "to": "2026-12-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-03T23:00:00+01:00",
-          "to": "2026-12-04T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "agnano",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Agnano/Cuma\" — uscita obbligatoria Agnano",
-      "tratto": {
-        "da": "agnano",
-        "a": "cuma"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-05T00:00:00+01:00",
-          "to": "2026-12-05T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -444,7 +284,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -460,7 +300,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -476,7 +316,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -492,7 +332,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -508,7 +348,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -524,7 +364,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -540,7 +380,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -556,7 +396,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -572,7 +412,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -588,7 +428,7 @@
     },
     {
       "id": "italia-90",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Italia 90 — svincolo chiuso",
       "source": "llm",
@@ -606,7 +446,7 @@
       "id": "capodichino",
       "direzione": "pozzuoli",
       "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto/Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
+      "label": "Chiusura tratto \"Capodichino Aeroporto - Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
       "tratto": {
         "da": "capodichino",
         "a": "doganella"
@@ -625,46 +465,6 @@
     {
       "id": "capodichino",
       "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto/Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-01T23:00:00+01:00",
-          "to": "2026-12-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto/Doganella\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "doganella"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-02T23:00:00+01:00",
-          "to": "2026-12-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodichino / Aeroporto — ingresso chiuso",
       "source": "llm",
@@ -713,26 +513,6 @@
     {
       "id": "capodichino",
       "direzione": "pozzuoli",
-      "status": "rosso",
-      "label": "Chiusura tratto \"Capodichino Aeroporto/Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
-      "tratto": {
-        "da": "capodichino",
-        "a": "secondigliano"
-      },
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-05T00:00:00+01:00",
-          "to": "2026-12-05T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "capodichino",
-      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Capodichino / Aeroporto — ingresso chiuso",
       "source": "llm",
@@ -748,7 +528,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -764,7 +544,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -780,7 +560,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "pozzuoli",
+      "direzione": "capodichino",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -796,7 +576,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -812,7 +592,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -828,7 +608,7 @@
     },
     {
       "id": "arenella",
-      "direzione": "capodichino",
+      "direzione": "pozzuoli",
       "status": "giallo",
       "label": "Arenella — ingresso chiuso",
       "source": "llm",
@@ -859,47 +639,19 @@
       ]
     },
     {
-      "id": "corso-malta",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Corso Malta — uscita chiusa",
+      "id": "capodichino",
+      "direzione": "pozzuoli",
+      "status": "rosso",
+      "label": "Chiusura tratto \"Capodichino Aeroporto - Secondigliano\" — uscita obbligatoria Capodichino / Aeroporto",
+      "tratto": {
+        "da": "capodichino",
+        "a": "secondigliano"
+      },
       "source": "llm",
       "windows": [
         {
-          "from": "2026-12-01T23:00:00+01:00",
-          "to": "2026-12-02T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "corso-malta",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Corso Malta — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-02T23:00:00+01:00",
-          "to": "2026-12-03T06:00:00+01:00"
-        }
-      ],
-      "visto": [
-        "anthropic"
-      ]
-    },
-    {
-      "id": "corso-malta",
-      "direzione": "capodichino",
-      "status": "giallo",
-      "label": "Corso Malta — uscita chiusa",
-      "source": "llm",
-      "windows": [
-        {
-          "from": "2026-12-03T23:00:00+01:00",
-          "to": "2026-12-04T06:00:00+01:00"
+          "from": "2026-12-05T00:00:00+01:00",
+          "to": "2026-12-05T06:00:00+01:00"
         }
       ],
       "visto": [
@@ -907,7 +659,108 @@
       ]
     }
   ],
-  "unparsed": [],
+  "unparsed": [
+    {
+      "text": "Chiusura del tratto Arco Felice - Agnano in direzione est/autostrade. (Notte del 1° dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-01T23:00:00+01:00",
+          "to": "2026-12-02T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Agnano - Cuma in direzione ovest/Pozzuoli. (Notte del 1° dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-01T23:00:00+01:00",
+          "to": "2026-12-02T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Capodichino Aeroporto - Doganella in direzione ovest/Pozzuoli. (Notte del 1° dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-01T23:00:00+01:00",
+          "to": "2026-12-02T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Arco Felice - Agnano in direzione est/autostrade. (Notte del 2 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-02T23:00:00+01:00",
+          "to": "2026-12-03T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Agnano - Cuma in direzione ovest/Pozzuoli. (Notte del 2 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-02T23:00:00+01:00",
+          "to": "2026-12-03T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Capodichino Aeroporto - Doganella in direzione ovest/Pozzuoli. (Notte del 2 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-02T23:00:00+01:00",
+          "to": "2026-12-03T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Arco Felice - Agnano in direzione est/autostrade. (Notte del 3 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-03T23:00:00+01:00",
+          "to": "2026-12-04T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Agnano - Cuma in direzione ovest/Pozzuoli. (Notte del 3 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-03T23:00:00+01:00",
+          "to": "2026-12-04T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Arco Felice - Agnano in direzione est/autostrade. (Notte del 4 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-05T00:00:00+01:00",
+          "to": "2026-12-05T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    },
+    {
+      "text": "Chiusura del tratto Agnano - Cuma in direzione ovest/Pozzuoli. (Notte del 4 dicembre 2026)",
+      "windows": [
+        {
+          "from": "2026-12-05T00:00:00+01:00",
+          "to": "2026-12-05T06:00:00+01:00"
+        }
+      ],
+      "reason": "uscita obbligatoria non indicata in questo blocco"
+    }
+  ],
   "urgentNotice": null,
-  "sourceHash": "c0e60238785ada1042d8318100815e8f65e4883f179ff21624d3a339a27c6eb9"
+  "sourceHash": "220cb293ff33fc0e51865d4d299fd5008b1fe1820ce20cbbe746e39fa2f67f9b"
 }
